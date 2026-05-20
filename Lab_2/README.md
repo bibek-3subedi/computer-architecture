@@ -1,8 +1,4 @@
-Here is the clean, professional, programmer-style `README.md`. All emojis have been removed, the language has been refined to standard academic/engineering documentation style, and the markdown formatting uses clean, explicit dividers.
 
----
-
-```markdown
 # Lab 2: VHDL Implementation and Simulation of Basic Logic Gates
 
 ## Objective
