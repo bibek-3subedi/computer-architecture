@@ -1,5 +1,5 @@
 
-# Lab 2: VHDL Implementation and Simulation of Basic Logic Gates
+# Lab 2:  VHDL Code for Realizing Logic Gates
 
 ## Objective
 
