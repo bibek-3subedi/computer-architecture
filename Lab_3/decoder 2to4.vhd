@@ -23,4 +23,4 @@ else
 Y <= " 0000 ";
 end if;
 end process ;
-end architecture Behavioral ;
+end architecture Behavioral ;git 
