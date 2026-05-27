@@ -57,4 +57,4 @@ The simulation waveform confirms correct logical operation across all test vecto
 ## Conclusion
 
 The VHDL code for all seven basic logic gates was successfully compiled, executed, and verified. By tracking the runtime waveform transitions inside the GTKWave environment, the functional behavioral integrity of the underlying hardware blocks was validated against theoretical Boolean models. This establishes a verified baseline for constructing complex combinational and sequential sub-systems in subsequent lab modules.
-```
+
