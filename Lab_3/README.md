@@ -50,10 +50,12 @@ A **2-to-4 decoder** has a 2-bit input (A1, A0) and four outputs (Y0–Y3). At a
 ## Output
 
 ### Decoder Output
-![Decoder Output](<img width="1243" height="788" alt="decoder vcd" src="https://github.com/user-attachments/assets/b79fd2d8-b95f-487c-8a90-e30aeca9f784" />)
+![Decoder Output](<img width="1243" height="788" alt="decoder vcd" src="https://github.com/user-attachments/assets/15fca305-9422-4324-8a21-7cd7cfcc41e3" />
+)
 
 ### Encoder Output
-![Encoder Output](<img width="1250" height="780" alt="encoder vcd" src="https://github.com/user-attachments/assets/662beb10-0763-437c-aa7c-35056168e88f" />)
+![Encoder Output(<img width="1250" height="780" alt="encoder vcd" src="https://github.com/user-attachments/assets/9a72c43e-c1f9-4c9e-99c0-0db1b392a17f" />
+)
 
 ---
 
