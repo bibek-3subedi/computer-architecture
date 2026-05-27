@@ -1,0 +1,4 @@
+v 4
+file . "encoder_4to2.vhd" "d1431ac7ebc45000f6971974f1b6d2f621e00ae3" "20260527083744.166":
+  entity encoder_4to2 at 1( 0) + 0 on 11;
+  architecture behavioral of encoder_4to2 at 12( 319) + 0 on 12;
