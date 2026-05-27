@@ -35,7 +35,7 @@ Each lab folder contains:
 
 - Lab 1 – Introduction to VHDL Programming and Open-Source Simulation Environment
 - Lab 2 – VHDL Code for Realizing Logic Gates 
-- Lab 3 – To be updated  
+- Lab 3 –  VHDL Code for Combinational Circuits (Encoder and Decoder)
 - Lab 4 – To be updated  
 - Lab 5 – To be updated  
 - Lab 6 – To be updated  
