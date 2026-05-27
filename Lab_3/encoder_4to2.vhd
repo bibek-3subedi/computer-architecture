@@ -5,7 +5,7 @@ entity ENCODER_4TO2 is
 port (
 I : in std_logic_vector (3 downto 0) ; -- 4 inputs
 Y : out std_logic_vector (1 downto 0) ; -- 2 -bit output
-V : out std_logic -- Valid : '1 ' if
+V : out std_logic; -- Valid : '1 ' if
 any input active) ;
 end entity ENCODER_4TO2 ;
 architecture Behavioral of ENCODER_4TO2 is
