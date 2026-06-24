@@ -168,17 +168,6 @@ Comparators are not just theoretical exercises; they are fundamental building bl
 
 ---
 
-## Project Structure
-
-```text
-Lab5_Comparator/
-│
-├── comparator_2bit.vhd    # Main VHDL design file (COMPARATOR_2BIT)
-├── comparator_tb.vhd      # Testbench for simulation (COMPARATOR_TB)
-├── Output.png             # Simulation waveform screenshot
-└── README.md              # Project documentation (this file)
-```
-
 ## How to Simulate
 
 1. Open your preferred VHDL simulator (e.g., ModelSim, Vivado, Quartus, or GHDL).
