@@ -1,4 +1,4 @@
-# Lab 5: Lab 4: VHDL Code for Combinational Circuits (MUX and DEMUX)
+# Lab 5: VHDL Code for Combinational Circuits: Comparator
 
 ## Overview
 
