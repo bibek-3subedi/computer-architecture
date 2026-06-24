@@ -1,5 +1,5 @@
 $date
-  Tue Jun 09 10:24:56 2026
+  Wed Jun 24 14:39:03 2026
 $end
 $version
   GHDL v0
@@ -10,8 +10,6 @@ $end
 $scope module standard $end
 $upscope $end
 $scope module std_logic_1164 $end
-$upscope $end
-$scope module numeric_std $end
 $upscope $end
 $scope module comparator_tb $end
 $var reg 2 ! a[1:0] $end
@@ -25,6 +23,8 @@ $var reg 2 ' b[1:0] $end
 $var reg 1 ( eq $end
 $var reg 1 ) gt $end
 $var reg 1 * lt $end
+$var reg 1 + eq1 $end
+$var reg 1 , eq0 $end
 $upscope $end
 $upscope $end
 $enddefinitions $end
@@ -39,6 +39,8 @@ b00 '
 1(
 0)
 0*
+1+
+1,
 #10000000
 b01 !
 0#
@@ -46,6 +48,7 @@ b01 !
 b01 &
 0(
 1)
+0,
 #20000000
 b00 !
 b01 "
@@ -76,3 +79,4 @@ b11 "
 b11 '
 1(
 0)
+1,
