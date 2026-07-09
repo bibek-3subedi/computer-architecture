@@ -39,7 +39,7 @@ Each lab folder contains:
 - Lab 4 – VHDL Code for Combinational Circuits (MUX and DEMUX)
 - Lab 5 – VHDL Code for Combinational Circuits: Comparator
 - Lab 6 – VHDL Code for Code Converters (BCD-to-Excess3 and Binary-to-Gray)
-- Lab 7 – To be updated
+- Lab 7 – VHDL Code for Sequential Circuits — Flip-Flops
 - Lab 8 – To be updated
 - Lab 9 – To be updated
 - Lab 10 – To be updated
