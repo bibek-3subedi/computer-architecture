@@ -308,6 +308,7 @@ This Value Change Dump file is produced by GHDL upon execution of the testbench.
 The generated waveform was imported into GTKWave, where the clock signal along with all flip-flop input and output traces were added to the display and the view was zoomed to fit the full simulation window.
 
 **Observation:** Each of the four flip-flops exhibited the expected behavior in response to its respective input conditions at every rising clock edge. The SR flip-flop performed set and reset operations correctly while never entering the forbidden state. The D flip-flop reliably captured the input value at each rising edge. The JK flip-flop toggled as expected under the J = K = 1 condition. The T flip-flop toggled on each rising edge while T remained asserted and held its state once T was de-asserted. In every case, the QB output remained the logical complement of Q.
+![Flipflop](flipflops.png)
 
 ---
 
